@@ -14,7 +14,7 @@ const Page = async () => {
     <div className="bg-gradient-to-bl from-white to-fuchsia-700 min-h-screen">
       <BaseContainer>
         <div className="max-w-md mx-auto mt-20 ">
-          <div className="text-center">
+          <div className="grid place-items-center">
             <Logo />
           </div>
           <h1 className="text-sm font-medium mb-5 mt-2 text-center">
